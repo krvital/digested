@@ -1,0 +1,7 @@
+(ns user)
+
+(comment
+  "hi"
+
+  ;
+  )
